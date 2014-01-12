@@ -1,0 +1,11 @@
+title:        'terrcin'
+tagline:      'stuff of interest'
+description:  ''
+url:          http://www.terrcin.com
+author:       
+  name:       'Nahum Wild'
+  email:      'nahum.wild@gmail.com'
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5

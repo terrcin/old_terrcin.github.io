@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>terrcin</title>
+ <link href="http://www.terrcin.com/atom.xml" rel="self"/>
+ <link href="http://www.terrcin.com/"/>
+ <updated>2014-01-12T15:19:47+13:00</updated>
+ <id>http://www.terrcin.com</id>
+ <author>
+   <name>Nahum Wild</name>
+   <email>nahum.wild@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Interesting links #1</title>
+   <link href="http://www.terrcin.com/2014/01/12/interesting-links-1/"/>
+   <updated>2014-01-12T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/01/12/interesting-links-1</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/existentialmutt/lt-ruby&quot;&gt;lt-ruby&lt;/a&gt; - A Ruby instarepl for LightTable, which is also now &lt;a href=&quot;https://github.com/LightTable/LightTable&quot;&gt;opensource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://techblog.netflix.com/2014/01/s3mper-consistency-in-cloud.html&quot;&gt;S3mper: Consistency in the Cloud&lt;/a&gt; - how Netflix handles eventual consistency on S3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/lifeandstyle/wordofmouth/2013/jun/19/how-to-make-the-perfect-sangria&quot;&gt;How to make the perfect sangria&lt;/a&gt; - the article itself is a great read too&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.newyorker.com/online/blogs/currency/2014/01/the-open-office-trap.html&quot;&gt;The open-office trap&lt;/a&gt; - meta-study of productivity in open office environments&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://embdev.net/topic/284710#3027030&quot;&gt;Dell U2713H on Mac: forcing RGB mode instead of YCbCr&lt;/a&gt; - everything looks slightly better now&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gameprogrammingpatterns.com/index.html&quot;&gt;Game Programming Patterns&lt;/a&gt; - bookmarked for future reference&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://derflounder.wordpress.com/2013/06/19/enabling-filevault-2-pre-boot-login-screen-functions-from-the-command-line&quot;&gt;Enabling FileVault 2 pre-boot login screen functions from the command line&lt;/a&gt; - I can now use dvorak again to decrypt my HD&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
