@@ -4,13 +4,31 @@
  <title>terrcin</title>
  <link href="http://www.terrcin.com/atom.xml" rel="self"/>
  <link href="http://www.terrcin.com/"/>
- <updated>2014-01-12T15:19:47+13:00</updated>
+ <updated>2014-01-29T19:33:20+13:00</updated>
  <id>http://www.terrcin.com</id>
  <author>
    <name>Nahum Wild</name>
    <email>nahum.wild@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Interesting links #2</title>
+   <link href="http://www.terrcin.com/2014/01/29/interesting-links-2/"/>
+   <updated>2014-01-29T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/01/29/interesting-links-2</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/p/3a6db2743a1e/&quot;&gt;Coding in color&lt;/a&gt; - aka semantic highlighting, never heard of it before and now I want it in sublime. Or I might switch to vim...&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.drdobbs.com/architecture-and-design/engineering-managers-should-code-30-of-t/240165174&quot;&gt;Engineering Managers Should Code 30% of Their Time&lt;/a&gt; - I think it somewhat depends on the person/structure/amount of process/organisation too&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amberbit.com/blog/2014/1/20/torquebox-3-rails-4-zero-downtime-deployment-ubuntu-12-04/?utm_medium=email&amp;amp;utm_source=rubyweekly&quot;&gt;Torquebox 3, Rails 4 - zero downtime deployments on Ubuntu 12.04&lt;/a&gt; - I&#39;m currently using Puma, but have been meaning try it out&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.reddit.com/r/rails/comments/1w7sid/whats_the_purpose_of_vagrant/cezgo71&quot;&gt;What&#39;s the purpose of Vagrant?&lt;/a&gt; - great succinct answer to the question&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rampion.github.io/RegHex/&quot;&gt;The hexagonal regular expression puzzle - improved UI&lt;/a&gt; - I&#39;m biased towards hexes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://imgur.com/usWXmhM&quot;&gt;Latency at the human scale&lt;/a&gt; - great way to hammer it home for programmers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.gamasutra.com/blogs/AaronSanFilippo/20140110/208431/Making_a_living_with_indie_games_in_2014_and_beyond.php&quot;&gt;Making a living with indie games in 2014 (and beyond)&lt;/a&gt; - feels like squeezing blood out of a stone&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Interesting links #1</title>
