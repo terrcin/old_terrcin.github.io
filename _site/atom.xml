@@ -4,13 +4,79 @@
  <title>terrcin</title>
  <link href="http://www.terrcin.com/atom.xml" rel="self"/>
  <link href="http://www.terrcin.com/"/>
- <updated>2014-01-29T19:33:20+13:00</updated>
+ <updated>2014-02-08T22:50:54+13:00</updated>
  <id>http://www.terrcin.com</id>
  <author>
    <name>Nahum Wild</name>
    <email>nahum.wild@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Interesting links #6</title>
+   <link href="http://www.terrcin.com/2014/02/08/interesting-links-6/"/>
+   <updated>2014-02-08T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/08/interesting-links-6</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://oboejs.com/why&quot;&gt;Oboe.js&lt;/a&gt; - a library that runs under Node.js and web browsers for loading JSON using streaming, also some sweet sweet SVG animations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.gosquadron.com/process-is-poison&quot;&gt;Process is Poison&lt;/a&gt; - automate your process, don&#39;t have bad process make more process&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/5_Whys&quot;&gt;5 Whys&lt;/a&gt; - Your 5 year-old is onto something. (Linked from &quot;Process is Poison&quot; and worth including separately.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.altdevblogaday.com/2014/02/06/multi-threaded-programming-1-basics/&quot;&gt;Multi-Threaded Programming 1: Basics&lt;/a&gt; - begining of a series that looks interesting&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.reddit.com/r/truegamedev/comments/1x2sva/procedural_dungeon_generation_explained_now_on/&quot;&gt;Procedural Dungeon Generation Explained&lt;/a&gt; - demo and follow up to an &lt;a href=&quot;http://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/&quot;&gt;earlier post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arkisvir.com/?p=237&quot;&gt;Game Design Patterns and Anti-Patterns for Turn-Based Strategy Games&lt;/a&gt; - a topic close to &lt;a href=&quot;http://www.esdao.com&quot;&gt;my heart&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interesting links #5</title>
+   <link href="http://www.terrcin.com/2014/02/07/interesting-links-5/"/>
+   <updated>2014-02-07T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/07/interesting-links-5</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://calleerlandsson.com/rubys-bitwise-operators&quot;&gt;Ruby&#39;s bitwise operators&lt;/a&gt; - good intro&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.artima.com/articles/dci_vision.html&quot;&gt;The DCI Architecture: A New Vision of Object-Oriented Programming&lt;/a&gt; - on my &#39;to read&#39; list&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://carbonfive.github.io/vimtronner/&quot;&gt;vimtronner - a multiplayer, real-time, command-line game that teaches you the core vim keys&lt;/a&gt; - maybe this year I&#39;ll learn VIM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=ori_StLXMSk&quot;&gt;ArrrrCamp 2013 - Patters to deal with big ActiveRecord models&lt;/a&gt; - an interesting watch as it covers multiple techniques for if you can&#39;t handle lots of code in one file.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://stripe.com/blog/ctf3-architecture&quot;&gt;Stripe Blog: CTF3 Architecture&lt;/a&gt; - always interesting to see behind the curtain&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interesting links #4</title>
+   <link href="http://www.terrcin.com/2014/02/04/interesting-links-4/"/>
+   <updated>2014-02-04T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/04/interesting-links-4</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://elmcitycraftworks.org/post/75593322933/practicing-ruby-issues-5-4-5-5-and-5-6-released-to&quot;&gt;Practicing Ruby&lt;/a&gt; - issues 5.4, 5.5, and 5.6 released to public archives&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://chrome.blogspot.co.nz/2014/02/chromecast-is-now-open-to-developers.html&quot;&gt;Chromecast is now open to developers&lt;/a&gt; - yay!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/meducation/propono&quot;&gt;meducation/propono · GitHub&lt;/a&gt; - is a pub/sub gem built on top of Amazon Web Services (AWS)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dinedal/textql&quot;&gt;textql&lt;/a&gt; - execute SQL against structured text like CSV or TSV&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/archives/2014/2/3/heroku-xl#understanding-perc99-and-tail-latencies&quot;&gt;Understanding Perc99 and Tail Latencies&lt;/a&gt; - Perc99 is the time which is slower than 99% of requests, but faster than 1%&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interesting links #3</title>
+   <link href="http://www.terrcin.com/2014/02/01/interesting-links-3/"/>
+   <updated>2014-02-01T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/01/interesting-links-3</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.devmynd.com/blog/2013-3-single-table-inheritance-hstore-lovely-combination&quot;&gt;PostgreSQL: Single Table Inheritance + Hstore = Lovely Combination&lt;/a&gt; - now with a GEM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://word.bitly.com/post/74839060954/ten-things-to-monitor&quot;&gt;10 Things We Forgot to Monitor&lt;/a&gt; - bitly engineering blog&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://imgur.com/usWXmhM&quot;&gt;Computer time at the human scale&lt;/a&gt; - really puts things into perspective&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://strongloop.com/strongblog/node-js-is-faster-than-java/&quot;&gt;What Makes Node.js Faster Than Java?&lt;/a&gt; - if you have a good caching strategy it doesn&#39;t matter so much&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.reddit.com/r/gamedev/comments/1wnau4/here_are_15_free_online_courses_on_game/&quot;&gt;15 free online courses on game development and related topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/p/f1f29cb2c5e0&quot;&gt;5 Chrome DevTools Commands that improved my WebDev workflow — Medium&lt;/a&gt; - console.table(array) is my favoriate&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Interesting links #2</title>
