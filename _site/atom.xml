@@ -4,13 +4,29 @@
  <title>terrcin</title>
  <link href="http://www.terrcin.com/atom.xml" rel="self"/>
  <link href="http://www.terrcin.com/"/>
- <updated>2014-02-09T16:44:35+13:00</updated>
+ <updated>2014-02-10T17:50:04+13:00</updated>
  <id>http://www.terrcin.com</id>
  <author>
    <name>Nahum Wild</name>
    <email>nahum.wild@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Interesting Links #7</title>
+   <link href="http://www.terrcin.com/2014/02/10/interesting-links-7/"/>
+   <updated>2014-02-10T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/10/interesting-links-7</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://thecodist.com/article/your_progress_as_a_programmer_is_all_up_to_you&quot;&gt;Your Progress As A Programmer Is All Up To You&lt;/a&gt; - follow your passion, never stop learning and share your ideas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jointjs.com/&quot;&gt;JointJS - the HTML 5 JavaScript diagramming library.&lt;/a&gt; - one of the prettiest I&#39;ve seen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://strapfork.com/&quot;&gt;Strapfork&lt;/a&gt; - &quot;Now you can use Bootstrap, Nobody will Notice&quot; unless they&#39;re a designer, coder etc...&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://unix.stackexchange.com/questions/8916/when-should-i-not-kill-9-a-process&quot;&gt;When should I not kill -9 a process?&lt;/a&gt; - try kill -15 first&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://github.hubspot.com/tether/&quot;&gt;Tether&lt;/a&gt; - JS lib for making an absolutely positioned element stay next to another element. Also links some projects built with it&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Introduction</title>
