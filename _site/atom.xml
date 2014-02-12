@@ -4,13 +4,29 @@
  <title>terrcin</title>
  <link href="http://www.terrcin.com/atom.xml" rel="self"/>
  <link href="http://www.terrcin.com/"/>
- <updated>2014-02-10T17:50:04+13:00</updated>
+ <updated>2014-02-13T07:24:19+13:00</updated>
  <id>http://www.terrcin.com</id>
  <author>
    <name>Nahum Wild</name>
    <email>nahum.wild@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Interesting Links #8</title>
+   <link href="http://www.terrcin.com/2014/02/13/interesting-links-8/"/>
+   <updated>2014-02-13T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/13/interesting-links-8</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://i.imgur.com/1m55Wqo.jpg&quot;&gt;SQL Join statetments visualised&lt;/a&gt; - bookmarked so I can refer to them&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jimbojsb/launchrocket&quot;&gt;Launchrocket - a Mac PrefPane for your Homebrew-installed services&lt;/a&gt; - this reminded me what I had installed&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ochronus.com/git-tips-from-the-trenches/&quot;&gt;Git tips from the trenches&lt;/a&gt; - some things I never thought of doing that may come in handy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.tastejs.com/yet-another-framework-syndrome-yafs&quot;&gt;Yet another framework syndrome (YAFS)&lt;/a&gt; - javascript &amp;amp; nodejs very much fall into this category&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/&quot;&gt;AWS Tips I Wish I&#39;d Known Before I Started&lt;/a&gt; - &quot;Disabling inbound SSH has just been a way for me to stop myself cheating with automation&quot;. interesting&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Interesting Links #7</title>
