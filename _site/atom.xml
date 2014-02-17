@@ -4,13 +4,29 @@
  <title>terrcin</title>
  <link href="http://www.terrcin.com/atom.xml" rel="self"/>
  <link href="http://www.terrcin.com/"/>
- <updated>2014-02-13T07:24:19+13:00</updated>
+ <updated>2014-02-18T07:33:48+13:00</updated>
  <id>http://www.terrcin.com</id>
  <author>
    <name>Nahum Wild</name>
    <email>nahum.wild@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Interesting Links #9</title>
+   <link href="http://www.terrcin.com/2014/02/17/interesting-links-9/"/>
+   <updated>2014-02-17T00:00:00+13:00</updated>
+   <id>http://www.terrcin.com/2014/02/17/interesting-links-9</id>
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.craigkerstiens.com/2014/02/15/PostgreSQL-9.4-What-I-Wanted/&quot;&gt;PostgreSQL 9.4 - What I was hoping for&lt;/a&gt; - HStore 2 would actually be useful&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.chromium.org/2014/02/compiling-in-background-for-smoother.html?m=1&quot;&gt;Compiling in the background for a smoother user experience&lt;/a&gt; - sound great, so does the new profiling visualization tool&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.pusher.com/dont-repeat-your-mistakes-conducting-post-mortems/&quot;&gt;Don&#39;t Repeat your Mistakes: Conducting Post-mortems&lt;/a&gt; - really good to have a formal process for this&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://creative-punch.net/2014/02/3-user-experience-improving-javascript-libraries-know/#&quot;&gt;3 User experience improving JavaScript libraries you should know about&lt;/a&gt; - Drop.js seems quite nice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://venturebeat.com/2014/02/13/good-engineering-managers-arent-just-hard-to-find-they-dont-exit/&quot;&gt;Good engineering managers aren&#39;t just hard to find - they don&#39;t exist&lt;/a&gt; - &quot;people who want the engineering manager role are unlikely to be very good at it; and those who could be good at it don’t want anything to do with it at all&quot;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Interesting Links #8</title>
